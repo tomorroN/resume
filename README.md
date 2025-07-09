@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Software Engineer and Team Lead with advanced knowledge of JavaScript and TypeScript. 
+Software Engineer, Team Lead and AWS Certified Solutions Architect with advanced knowledge of JavaScript and TypeScript. 
 Over 7 years of experience in backend development using Node.js, NestJS, and cloud platforms (AWS, GCP). 
 Proven leadership experience in building and scaling engineering teams, establishing development processes, and delivering production-grade web and server applications from scratch.
 
