@@ -83,3 +83,4 @@ Sep 2014 – Jun 2019
 - Google Cloud Day Kyiv – Jun 2019
 - *Learning How to Learn*, McMaster University & UC San Diego – [Certificate](https://www.coursera.org/account/accomplishments/verify/RT7UNAWKPKTM) – May 2021
 - JavaScript fwdays’21 – Jun 2021
+- AWS Certified Solutions Architect – Associate - [Badge](https://www.credly.com/badges/5593e0e2-1e97-442b-9fcd-a4b88c866668/linked_in_profile) – Jul 2025
