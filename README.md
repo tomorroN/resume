@@ -2,7 +2,7 @@
 
 **Email:** [dmitriy.nikitiuk13@gmail.com](mailto:dmitriy.nikitiuk13@gmail.com)  
 **LinkedIn:** [linkedin.com/in/dmytro-nikitiuk](https://www.linkedin.com/in/dmytro-nikitiuk)  
-**GitHub:** [github.com/tomorroN](https://github.com/tomorroN)
+**GitHub:** [github.com/d-nikitiuk](https://github.com/d-nikitiuk)
 
 ---
 
